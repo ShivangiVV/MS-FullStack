@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PurchaseOrderSystem.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "PurchaseOrderSystem.Models": "1.0.0",
+          "PurchaseOrderSystem.Services": "1.0.0"
+        },
+        "runtime": {
+          "PurchaseOrderSystem.ConsoleApp.dll": {}
+        }
+      },
+      "PurchaseOrderSystem.Models/1.0.0": {
+        "runtime": {
+          "PurchaseOrderSystem.Models.dll": {}
+        }
+      },
+      "PurchaseOrderSystem.Services/1.0.0": {
+        "dependencies": {
+          "PurchaseOrderSystem.Models": "1.0.0"
+        },
+        "runtime": {
+          "PurchaseOrderSystem.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PurchaseOrderSystem.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PurchaseOrderSystem.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PurchaseOrderSystem.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

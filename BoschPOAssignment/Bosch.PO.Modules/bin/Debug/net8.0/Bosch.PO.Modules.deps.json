@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bosch.PO.Modules/1.0.0": {
+        "runtime": {
+          "Bosch.PO.Modules.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bosch.PO.Modules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

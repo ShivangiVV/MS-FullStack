@@ -1,0 +1,11 @@
+C:\Users\DSZ1KOR\Desktop\Bosch MS Stack\Assignments\BoschPOAssignment\Bosch.PO.Modules\bin\Debug\net8.0\Bosch.PO.Modules.deps.json
+C:\Users\DSZ1KOR\Desktop\Bosch MS Stack\Assignments\BoschPOAssignment\Bosch.PO.Modules\bin\Debug\net8.0\Bosch.PO.Modules.dll
+C:\Users\DSZ1KOR\Desktop\Bosch MS Stack\Assignments\BoschPOAssignment\Bosch.PO.Modules\bin\Debug\net8.0\Bosch.PO.Modules.pdb
+C:\Users\DSZ1KOR\Desktop\Bosch MS Stack\Assignments\BoschPOAssignment\Bosch.PO.Modules\obj\Debug\net8.0\Bosch.PO.Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSZ1KOR\Desktop\Bosch MS Stack\Assignments\BoschPOAssignment\Bosch.PO.Modules\obj\Debug\net8.0\Bosch.PO.Modules.AssemblyInfoInputs.cache
+C:\Users\DSZ1KOR\Desktop\Bosch MS Stack\Assignments\BoschPOAssignment\Bosch.PO.Modules\obj\Debug\net8.0\Bosch.PO.Modules.AssemblyInfo.cs
+C:\Users\DSZ1KOR\Desktop\Bosch MS Stack\Assignments\BoschPOAssignment\Bosch.PO.Modules\obj\Debug\net8.0\Bosch.PO.Modules.csproj.CoreCompileInputs.cache
+C:\Users\DSZ1KOR\Desktop\Bosch MS Stack\Assignments\BoschPOAssignment\Bosch.PO.Modules\obj\Debug\net8.0\Bosch.PO.Modules.dll
+C:\Users\DSZ1KOR\Desktop\Bosch MS Stack\Assignments\BoschPOAssignment\Bosch.PO.Modules\obj\Debug\net8.0\refint\Bosch.PO.Modules.dll
+C:\Users\DSZ1KOR\Desktop\Bosch MS Stack\Assignments\BoschPOAssignment\Bosch.PO.Modules\obj\Debug\net8.0\Bosch.PO.Modules.pdb
+C:\Users\DSZ1KOR\Desktop\Bosch MS Stack\Assignments\BoschPOAssignment\Bosch.PO.Modules\obj\Debug\net8.0\ref\Bosch.PO.Modules.dll

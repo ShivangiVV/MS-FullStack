@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bosch.PO.UI/1.0.0": {
+        "dependencies": {
+          "Bosch.PO.Modules": "1.0.0"
+        },
+        "runtime": {
+          "Bosch.PO.UI.dll": {}
+        }
+      },
+      "Bosch.PO.Modules/1.0.0": {
+        "runtime": {
+          "Bosch.PO.Modules.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bosch.PO.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bosch.PO.Modules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

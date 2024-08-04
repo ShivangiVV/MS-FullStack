@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bosch.Calculator.UI/1.0.0": {
+        "dependencies": {
+          "Bosch.Calculator": "1.0.0"
+        },
+        "runtime": {
+          "Bosch.Calculator.UI.dll": {}
+        }
+      },
+      "Bosch.Calculator/1.0.0": {
+        "runtime": {
+          "Bosch.Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bosch.Calculator.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bosch.Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
